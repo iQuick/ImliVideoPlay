@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">ImliIjkplayer</string>
+
+    <string name="share">分享</string>
+
+    <string name="mode_full_screen">MODE_FULL_SCREEN</string>
+    <string name="mode_normal">MODE_NORMAL</string>
+    <string name="mode_tiny_window">MODE_TINY_WINDOW</string>
+
+    <string name="state_playing">STATE_PLAYING</string>
+    <string name="state_buffering_playing">STATE_BUFFERING_PLAYING</string>
+    <string name="state_paused">STATE_PAUSED</string>
+    <string name="state_buffering_paused">STATE_BUFFERING_PAUSED</string>
+    <string name="state_preparing">STATE_PREPARING</string>
+
+    <string name="format_time_hours" formatted="false">%d:%02d:%02d</string>
+    <string name="format_time_minutes" formatted="false">%02d:%02d</string>
+    <string name="format_time_seconds" formatted="false">%02d:%02d</string>
+    <string name="format_time_zero">00:00</string>
+
+    <string name="player_state_ready">正在准备...</string>
+    <string name="player_state_buffering_playing">正在缓冲...</string>
+
+    <string name="warn_tip_use_set_speed">Only IjkPlayer use setSpeed!</string>
+    <string name="warn_tip_use_start">Use start() where the state is STATE_IDLE</string>
+    <string name="warn_tip_dn_use_restart" formatted="false">does not use restart() where the state is %d !</string>
+
+    <string name="error_open_player">打开播放器发生错误</string>
+    <string name="error_play">播放错误，请重试。</string>
+    <string name="retry_click">点击重试</string>
+    <string name="text_title">真实死亡游戏“蓝鲸”疑似进入国内，家长们要注意了</string>
+    <string name="space_time">/</string>
+    <string name="text_clarity">超清</string>
+</resources>
